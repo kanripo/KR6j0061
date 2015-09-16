@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 蘇悉地羯羅經
+#+DATE: 2015-08-30 20:25:03.072556
+#+PROPERTY: JUAN 0
