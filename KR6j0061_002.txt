@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 893b
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6j0061_T_000-0633c>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0061_T_002-0644a> 
 #+PROPERTY: JUAN 2
@@ -263,8 +263,8 @@
 
 金剛部母真言。¶
 
-那謨．露　迦馱　室利曳．　那莫．商迦隸．扇¶
-底迦隸．𦁐䋾𦁐𦁐．𦁐抳伽嚲野　𦁐置掘¶
+那謨．露　迦馱　室利曳．　那莫．商迦[肄-聿+(入/米)]．扇¶
+底迦[肄-聿+(入/米)]．𦁐䋾𦁐𦁐．𦁐抳伽嚲野　𦁐置掘¶
 莎縛訶¶
 
 先誦此母真言。能衛本尊。能蠲眾罪。除諸災¶
@@ -537,7 +537,7 @@
 
 佛部五淨真言曰。¶
 
-那謨皤伽縛底烏瑟膩沙野弭秫　睇弭羅¶
+那謨皤伽縛底烏瑟膩沙野弭[禾*(尤-尢+木)]　睇弭羅¶
 制始米　扇底伽[口*履]　莎縛訶¶
 
 蓮華部五淨真言曰。¶
