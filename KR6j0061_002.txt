@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 893c
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6j0061_T_000-0663b>¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0061_T_002-0673a> ¶¶
 #+PROPERTY: JUAN 2
@@ -465,7 +465,7 @@
 物。護身。以除諸難作成就時。如斯等法皆須¶
 憶念。或若不辨前護方人。應當置其當方器¶
 仗。此亦不辨。於諸方所。置那羅遮器仗。或張¶
-弓擩箭置諸方所。或與助成就人。明解藏法。¶
+弓[擩-雨+而]箭置諸方所。或與助成就人。明解藏法。¶
 有智方便。持誦有功。戒行清潔。立在門中。助¶
 辨諸事。辟除諸難乃至內院外院。彼皆應助。¶
 所有一切諸事。至於暮間皆須辨足。日纔沒¶
